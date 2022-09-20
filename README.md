@@ -4,7 +4,7 @@
 
 > Programa Explorer - Rocketseat
 
-Projeto construído no programa Explorer da Rocketseat
+Projeto sobre responsividade construído no programa Explorer da Rocketseat, a largura responsiva usada neste foi a partir de 700px
 
 [📌Clique aqui para acessar](https://axelselbach.github.io/Desafio-02-Stage03-Explorer-Rocketseat/)
 
